@@ -1,4 +1,4 @@
-package contest.wc230813.p2;
+package contest.wc358.p2;
 
 import common.LinkedListUtil;
 import common.ListNode;

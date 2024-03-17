@@ -1,4 +1,4 @@
-package contest.wc230917.p1;
+package contest.wc363.p1;
 
 import java.util.List;
 

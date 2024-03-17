@@ -1,4 +1,4 @@
-package contest.wc230820.p3;
+package contest.wc359.p3;
 
 import java.util.*;
 import java.util.stream.Collectors;

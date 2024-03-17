@@ -1,4 +1,4 @@
-package contest.wc230903.p2;
+package contest.wc361.p2;
 
 class Solution {
     public int minimumOperations(String num) {

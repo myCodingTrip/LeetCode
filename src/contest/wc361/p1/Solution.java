@@ -1,4 +1,4 @@
-package contest.wc230903.p1;
+package contest.wc361.p1;
 
 class Solution {
     public int countSymmetricIntegers(int low, int high) {

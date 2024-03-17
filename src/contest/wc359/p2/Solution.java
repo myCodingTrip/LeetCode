@@ -1,4 +1,4 @@
-package contest.wc230820.p2;
+package contest.wc359.p2;
 
 import java.util.HashSet;
 import java.util.Set;

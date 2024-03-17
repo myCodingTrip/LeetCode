@@ -1,4 +1,4 @@
-package contest.wc230813.p1;
+package contest.wc358.p1;
 
 class Solution {
     public int maxSum(int[] nums) {

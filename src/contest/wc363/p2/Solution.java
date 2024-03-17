@@ -1,4 +1,4 @@
-package contest.wc230917.p2;
+package contest.wc363.p2;
 
 import java.util.Arrays;
 import java.util.Collections;
